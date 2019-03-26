@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="milliRomanlar">
+        <item>Sinekli Bakkal</item>
+        <item>Ateşten Gömlek</item>
+        <item>Handan</item>
+        <item>Vurun Kahpeye</item>
+        <item>Nur Baba</item>
+        <item>Kiralık Konak</item>
+        <item>Hüküm Gecesi</item>
+        <item>Ankara</item>
+        <item>Sodom ve Gomore</item>
+        <item>Acımak</item>
+        <item>Çalıkuşu</item>
+        <item>Dudaktan Kalbe</item>
+        <item>Yaprak Dökümü</item>
+        <item>Damga</item>
+        <item>Yezid'in Kızı</item>
+        <item>Bugünün Saraylısı</item>
+        <item>Sürgün</item>
+        <item>Efruz Bey</item>
+    </string-array>
+
+    <string-array name="milliYazarlar">
+        <item>Halide Edip Adıvar</item>
+        <item>Halide Edip Adıvar</item>
+        <item>Halide Edip Adıvar</item>
+        <item>Halide Edip Adıvar</item>
+        <item>Yakup Kadri Karaosmanoğlu</item>
+        <item>Yakup Kadri Karaosmanoğlu</item>
+        <item>Yakup Kadri Karaosmanoğlu</item>
+        <item>Yakup Kadri Karaosmanoğlu</item>
+        <item>Yakup Kadri Karaosmanoğlu</item>
+        <item>Reşat Nuri Güntekin</item>
+        <item>Reşat Nuri Güntekin</item>
+        <item>Reşat Nuri Güntekin</item>
+        <item>Reşat Nuri Güntekin</item>
+        <item>Reşat Nuri Güntekin</item>
+        <item>Refik Halit Karay</item>
+        <item>Refik Halit Karay</item>
+        <item>Refik Halit Karay</item>
+        <item>Ömer Seyfettin</item>
+
+    </string-array>
+    
+</resources>
+
+
+
